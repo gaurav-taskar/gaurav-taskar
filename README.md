@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gaurav-taskar
 - 👀 I’m interested in Data Science, Data Engineering, Data Analytics, IoT
-- 🌱 I’m currently learning Data Engineering skills
 - 💞️ I’m looking to collaborate on Data Engineering and Data Science Projects
 - 📫 How to reach me gtaskar@gmail.com, I am very responsive and try my best to reach out to you asap.
 
